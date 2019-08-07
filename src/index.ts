@@ -6,7 +6,8 @@
 // import './class-interface'; // 类+接口
 // import './generics'; // 泛型
 // import './inference'; // 类型检查
-import './compatible'; // 类型兼容
+// import './compatible'; // 类型兼容
+import './guards'; // 类型保护
 
 let hello:string = 'hello typescript';
 document.querySelectorAll('.app')[0].innerHTML =  hello;
